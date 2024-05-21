@@ -54,3 +54,7 @@ h1 {
 p {
     font-size:35px;
 }
+
+a, a:visited, a:hover, a:active {
+    color: inherit;
+  }
