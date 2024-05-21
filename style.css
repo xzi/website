@@ -1,3 +1,8 @@
+@font-face {
+    font-family: CaveStory;
+    src: url('assets/CaveStory.ttf')
+}
+
 body, html {
     height: 100%;
     margin: 0;
@@ -23,6 +28,7 @@ body, html {
 
 * {
     box-sizing: border-box;
+    font-family: CaveStory;
 }
 
 .box {
@@ -39,4 +45,12 @@ body, html {
     width: 80%;
     padding: 20px;
     text-align: center;
+}
+
+h1 {
+    font-size:80px;
+}
+
+p {
+    font-size:35px;
 }
