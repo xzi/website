@@ -6,3 +6,4 @@ Sources:
 - W3Schools
 - <https://www.ffonts.net/Cave-Story-Regular.font>
 - Mewo from OMORI (made by OMOCAT)
+- <https://github.com/tylxr59/oneko.js/tree/main>
