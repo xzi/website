@@ -57,3 +57,12 @@ p {
 a, a:visited, a:hover, a:active {
     color: inherit;
   }
+
+.mewo {
+    cursor: pointer;
+    border: 1px solid transparent;
+    background-color: transparent;
+    width: 100px;
+    color: #3498db;
+    font-size: 1.5em;
+}
