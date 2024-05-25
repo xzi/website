@@ -94,7 +94,7 @@
     nekoEl.style.imageRendering = "pixelated";
     nekoEl.style.left = `${nekoPosX - 16}px`;
     nekoEl.style.top = `${nekoPosY - 16}px`;
-    nekoEl.style.zIndex = Number.MAX_VALUE;
+    nekoEl.style.zIndex = 999999;
 
     let nekoFile = "./oneko.gif"
     const curScript = document.currentScript
@@ -213,6 +213,7 @@
       heart.style.left = `${centerX + offsetX - 16}px`;
       heart.style.top = `${centerY + offsetY - 16}px`;
       heart.style.transform = `translate(-50%, -50%) rotate(${Math.random() * 360}deg)`;
+      heart.style.zIndex = 9999999;
       parent.appendChild(heart);
 
       setTimeout(() => {
