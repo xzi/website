@@ -17,7 +17,8 @@ This is the source code for my personal website. Pillaging for your own project 
 ## Add my button!
 
 ![Button](assets/button.png)  
-```<a href="https://blueberry.moe"><img src="https://blueberry.moe/assets/button.png"></a>```
+```<a href="https://blueberry.moe"><img src="https://blueberry.moe/assets/button.png"></a>```  
+If you want me to add your button to the site, message me on Discord @ruckerenum
 
 ## Sources  
 
