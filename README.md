@@ -17,7 +17,7 @@ This is the source code for my personal website. Pillaging for your own project 
 ## Sources  
 
 - <https://www.pixiv.net/en/artworks/118833862>
-- W3Schools
 - <https://www.ffonts.net/Cave-Story-Regular.font>
-- Mewo from OMORI (made by OMOCAT)
 - <https://github.com/tylxr59/oneko.js/tree/main>
+- Mewo from OMORI (made by OMOCAT)
+- W3Schools
