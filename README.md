@@ -11,5 +11,5 @@ This branch specifically is for a planned rewrite of the website that I am going
 [] Catppuccin Mocha
 [] Links to things I find interesting
 [] Last.fm tracker
-[] Oneko.js
+[x] Oneko.js
 [] BUTTONS
