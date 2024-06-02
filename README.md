@@ -13,3 +13,8 @@ This branch specifically is for a planned rewrite of the website that I am going
 - [ ] Last.fm tracker
 - [x] Oneko.js
 - [ ] BUTTONS
+
+## Sources
+
+- <https://github.com/catppuccin/catppuccin#-palette>
+- <https://github.com/tylxr59/oneko.js/tree/main>
