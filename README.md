@@ -6,10 +6,10 @@ This branch specifically is for a planned rewrite of the website that I am going
 
 ## Plans
 
-[] About me
-[] Blog
-[] Catppuccin Mocha
-[] Links to things I find interesting
-[] Last.fm tracker
-[x] Oneko.js
-[] BUTTONS
+- [ ] About me
+- [ ] Blog
+- [ ] Catppuccin Mocha
+- [ ] Links to things I find interesting
+- [ ] Last.fm tracker
+- [x] Oneko.js
+- [ ] BUTTONS
