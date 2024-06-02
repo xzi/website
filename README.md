@@ -14,6 +14,11 @@ This is the source code for my personal website. Pillaging for your own project 
 - A blog
 - Buttons to other people's sites
 
+## Add my button!
+
+![Button](assets/button.png)
+```<img src="https://blueberry.moe/assets/button.png" href="https://blueberry.moe>```
+
 ## Sources  
 
 - <https://www.pixiv.net/en/artworks/118833862>
