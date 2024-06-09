@@ -8,10 +8,10 @@ This branch specifically is for a planned rewrite of the website that I am going
 
 - [ ] About me
 - [ ] Blog
-- [ ] Catppuccin Mocha
-- [ ] Links to things I find interesting
-- [ ] Last.fm tracker
+- [ ] Links to things I find interesting (Port [xzi/software.md](https://github.com/xzi/xzi/blob/main/software.md))
+- [ ] Add better contacts than my Discord
 - [x] Oneko.js
+  - [ ] Make the cat remember its position (so it doesn't teleport)
 - [ ] BUTTONS
 
 ## Sources
