@@ -5,7 +5,6 @@ This is the source code for my personal website. Pillaging for your own project 
 
 ## Bugs
 
-- Oneko goes under the box
 - Mobile breaks the site
 
 ## Cool stuff I would love to implement
