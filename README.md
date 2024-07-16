@@ -1,7 +1,7 @@
 # lilith's website <3
 
 [Website](https://blueberry.moe) | [Uptime](https://stats.uptimerobot.com/dr0oiYakDZ)  
-This is the source code for my personal website. Pillaging for your own project is encouraged.
+This is the source code for my personal website. This branch specifically is something I can show to people I think are transphobic. If you are someone who I used this on, my apologies. 
 
 ## Bugs
 
