@@ -1,4 +1,4 @@
-# lilith's website <3
+# katie's website <3
 
 [Website](https://blueberry.moe) | [Uptime](https://stats.uptimerobot.com/dr0oiYakDZ)  
 This is the source code for my personal website. Pillaging for your own project is encouraged.
